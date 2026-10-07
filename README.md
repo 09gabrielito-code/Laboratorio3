@@ -96,3 +96,16 @@ Pasos:
 
 - Los enlaces de redes sociales y el correo del footer son de ejemplo.
 - La ruta de la carpeta de fotos es `./uploaded_files/`.
+
+## 10. Capturas del Laboratorio
+
+<img width="1836" height="885" alt="image" src="https://github.com/user-attachments/assets/0bc1e017-91cd-4e8c-a885-81c9510f24dd" />
+
+<img width="1842" height="915" alt="image" src="https://github.com/user-attachments/assets/e62ba28b-f95e-4ab9-8d79-0b26b2b2e001" />
+
+<img width="1855" height="823" alt="image" src="https://github.com/user-attachments/assets/2cf50c1d-b8e6-42f5-8aee-03775c010195" />
+
+<img width="217" height="331" alt="image" src="https://github.com/user-attachments/assets/07058ae9-2a79-4d49-84fb-2ae2e5147967" />
+
+
+
